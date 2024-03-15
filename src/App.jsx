@@ -1,7 +1,7 @@
 function App() {
   return (
     <>
-      <div>Hello g</div>
+      <div className="text-[3rem]">Hello g</div>
     </>
   );
 }
